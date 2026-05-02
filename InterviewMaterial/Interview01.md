@@ -41,7 +41,13 @@ Constraints:
 
 1 <= n <= 45
 
-
+```
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        if n == 0 or n == 1:
+            return 1
+        return self.climbStairs(n-1) + self.climbStairs(n-2)
+```
 
 ---
 ### Design API and DB Schema for URL Shortener
