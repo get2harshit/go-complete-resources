@@ -1,3 +1,18 @@
+## Questions (Time: 60 min)
+1. Climibing Staircase
+2. Design API and DB Schema for URL Shortener
+3. Design Cart & Checkout System
+
+### Feedback
+1. Communication:
+2. Problem Solving:
+3. System Design:
+
+### Final Judgement
+- Weak Hire/ Strong Hire/ No Hire
+
+---
+## Solution
 ### DSA
 You are climbing a staircase. It takes n steps to reach the top.
 
