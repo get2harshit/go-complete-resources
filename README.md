@@ -1,3 +1,6 @@
+## System Design Interview Prep:
+1. https://github.com/get2harshit/go-complete-resources/tree/main/InterviewMaterial
+
 ## HLD Preparation
 1. System Design Repo: https://github.com/get2harshit/system-design-lld-hld-complete-resources/tree/main
 2. Complete 5 Modules of Learning Path: https://www.codechef.com/learn/course/polaris-hld4
@@ -31,11 +34,8 @@
 ## Practice Questions before Mid-sem Exam (Important)
 
 https://www.codechef.com/learn/course/polaris-golang4/GO05/problems/POLGOPRO71
-
 https://www.codechef.com/learn/course/polaris-golang4/GO04/problems/POLGOPRO51X
 
-
-For any queries, reach out: Harshit sir (+91-7701809516)
 
 
 ## Practice Questions before 1st Evaluation (Important)
@@ -58,3 +58,7 @@ https://www.codechef.com/learn/course/polaris-golang4/GO06/problems/POLGOPRO90?f
   ## Interview Prep
   - https://github.com/get2harshit/go-complete-resources/blob/main/attachments/2_InterviewPrep.md
   - https://github.com/get2harshit/go-complete-resources/blob/main/attachments/1_Revision.md
+
+ 
+Practice Mock: Book Mentor Calendar: https://calendar.app.google/A8DyTx5SdtaALHk87
+For any queries, reach out: Harshit sir (+91-7701809516)
