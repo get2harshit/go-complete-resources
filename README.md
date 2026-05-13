@@ -59,6 +59,7 @@ https://www.codechef.com/learn/course/polaris-golang4/GO06/problems/POLGOPRO90?f
   - https://github.com/get2harshit/go-complete-resources/blob/main/attachments/2_InterviewPrep.md
   - https://github.com/get2harshit/go-complete-resources/blob/main/attachments/1_Revision.md
 
- 
-Practice Mock: Book Mentor Calendar: https://calendar.app.google/A8DyTx5SdtaALHk87
-For any queries, reach out: Harshit sir (+91-7701809516)
+
+ ## Contact 
+- Practice Mock: Book Mentor Calendar: https://calendar.app.google/A8DyTx5SdtaALHk87
+- For any queries, reach out: Harshit sir (+91-7701809516)
