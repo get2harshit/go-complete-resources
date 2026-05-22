@@ -1,7 +1,9 @@
 # End Sem Preparation Strategy
-1. 50:50 = DSA: Go+ System Design
-2. Coding questions (Codechef questions) will be regarding DSA and Go
-4. **Go Preparation**
+1. 50:50 = DSA: Go+ System Design (Marks and number of questions)
+2. 80% Go, 20% System Design
+3. Coding questions (Codechef questions) will be regarding DSA and Go
+4. **High Yielding topics:** **Prepare All classroom problems. Practice each question 5 times.** (Link: https://www.codechef.com/learn/course/polaris-golang4/GO14/problems/GOPRB01)
+5. **Go Preparation**
   - **Practice Questions before 3rd Evaluation**
     1. Context.WithCancel [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
     2. Context.WithTimeout [https://github.com/get2harshit/go-complete-resources/blob/main/code/AfterMidSem-Concurrency/contextWithCancel.go]
